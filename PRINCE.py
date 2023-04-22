@@ -21,6 +21,6 @@ if bit == '64bit':
 
 elif bit == '32bit':
 
-    from public import login
+    from prince import login
 
     login()
