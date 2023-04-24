@@ -15,7 +15,7 @@ bit = platform.architecture()[0]
 
 if bit == '64bit':
 
-    from public64 import login
+    from VIP64 import login
 
     login()
 
